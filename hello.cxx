@@ -2,14 +2,14 @@
 
 namespace MyNamespace
 {
-    class Foo
-    {
-       public:
-        Foo() {}
+class Foo
+{
+   public:
+    Foo() {}
 
-       protected:
-        int m_i;
-    };
+   protected:
+    int m_i;
+};
 }  // namespace MyNamespace
 
 int main()
