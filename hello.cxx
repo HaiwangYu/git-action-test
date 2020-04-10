@@ -4,13 +4,13 @@ namespace MyNamespace
 {
 class Foo
 {
-public:
+   public:
     Foo() {}
 
-protected:
+   protected:
     int m_i;
 };
-} // namespace MyNamespace
+}  // namespace MyNamespace
 
 int main()
 {
