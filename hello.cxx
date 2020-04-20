@@ -7,13 +7,13 @@ namespace MyNamespace
      * style commnet
      */
     class Foo
-{
-   public:
-    Foo() {}
+    {
+       public:
+        Foo() {}
 
-   protected:
-    int m_i;
-};
+       protected:
+        int m_i;
+    };
 }  // namespace MyNamespace
 
 int main()
