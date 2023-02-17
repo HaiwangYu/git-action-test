@@ -1,3 +1,2 @@
 #incude <iostream>
-
-void main () {}
+#incude <iostream>
